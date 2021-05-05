@@ -13,7 +13,7 @@ Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no u
 <br>
 Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Data Science.
 
-<br>
+<br><br>
 
 **Conhecimento em:** Python, SQL, Machine Learning, Análise Exploratória de Dados, Storytelling, Inglês.
 
