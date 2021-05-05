@@ -7,7 +7,9 @@
 # Roberto Paixão
 <sub>*Bacharel em Sistemas de Informação*</sub>
 
-Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no universo dos dados. Participei de alguns bootcamps de Data Science como o AceleraDEV da antiga Codenation e da Maratona Behind The Code da IBM.
+Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no universo dos dados, procuro sempre aprender e evoluir todos os dias. Participei de alguns bootcamps de Data Science como o AceleraDEV da antiga Codenation e da Maratona Behind The Code da IBM.
+
+
 <br>
 Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Data Science.
 
