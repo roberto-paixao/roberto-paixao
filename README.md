@@ -25,5 +25,5 @@ Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Data
 ## Projetos:
 Veja meus projetos já publicados:
 
-* [Analisando os Dados do Airbnb de Tóquio](https://github.com/roberto-paixao/Analise_Airbnb_Toquio/blob/main/Analisando_os_Dados_do_Airbnb_T%C3%B3quio.ipynb)
+* [Analisando os Dados do Airbnb de Tóquio](https://github.com/roberto-paixao/Analise_Airbnb_Toquio/blob/main/Analise_de_Dados__Airbnb_T%C3%B3quio.ipynb)
 
