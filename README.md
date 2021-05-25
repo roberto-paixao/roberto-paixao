@@ -7,15 +7,14 @@
 # Roberto Paixão
 <sub>*Bacharel em Sistemas de Informação*</sub>
 
-Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no universo dos dados, procuro sempre aprender e evoluir todos os dias. Participei de alguns bootcamps de Data Science como o AceleraDEV da antiga Codenation e da Maratona Behind The Code da IBM.
-
+Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no universo dos dados, procuro sempre aprender e evoluir todos os dias. Participei de alguns bootcamps de Data Science como o AceleraDEV da antiga Codenation e da Maratona Behind The Code da IBM que me renderam novos conhecimentos e habilidades técnicas em Python e em Ciência de Dados.
 
 <br>
 Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Data Science.
 
 <br><br>
 
-**Conhecimento em:** Python, SQL, Machine Learning, Análise Exploratória de Dados, Storytelling, Inglês.
+**Conhecimento em:** Python, SQL, Ciência de Dados, Aprendizado de Máquina, Análise Exploratória de Dados, Storytelling, Inglês.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/roberto-paixao95/)
@@ -26,4 +25,5 @@ Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Data
 Veja meus projetos já publicados:
 
 * [Analisando os Dados do Airbnb de Tóquio](https://github.com/roberto-paixao/Analise_Airbnb_Toquio/blob/main/Analise_de_Dados__Airbnb_T%C3%B3quio.ipynb)
+* [Análise Exploratória da Violência do Rio de Janeiro](https://github.com/roberto-paixao/Analise_Violencia_do_Rio/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
