@@ -26,4 +26,5 @@ Veja meus projetos já publicados:
 
 * [Analisando os Dados do Airbnb de Tóquio](https://github.com/roberto-paixao/analise-airbnb-toquio/blob/main/Analise_de_Dados_Airbnb_T%C3%B3quio.ipynb)
 * [Análise Exploratória da Violência do Rio de Janeiro](https://github.com/roberto-paixao/Analise_Violencia_do_Rio/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* [Panorama da Covid-19 no Brasil](https://github.com/roberto-paixao/analise_covid_mundial/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)
 
