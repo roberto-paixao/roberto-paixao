@@ -14,7 +14,7 @@ Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Data
 
 <br><br>
 
-**Conhecimento em:** Python, SQL, Ciência de Dados, Aprendizado de Máquina, Análise Exploratória de Dados, Storytelling, Inglês.
+**Conhecimento em:** Python, Visualização de Dados, Análise Exploratória de Dados, Aprendizado de Máquina, Storytelling, Inglês.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/roberto-paixao95/)
