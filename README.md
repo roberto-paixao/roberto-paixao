@@ -9,17 +9,18 @@
 
 Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no universo dos dados, procuro sempre aprender e evoluir todos os dias. Participei de alguns bootcamps de Data Science como o AceleraDEV da antiga Codenation e da Maratona Behind The Code da IBM que me renderam novos conhecimentos e habilidades técnicas em Python e em Ciência de Dados.
 
+
+**Conhecimento em:** Python, Visualização de Dados, Análise Exploratória de Dados, Storytelling, Inglês.
+
+
+
 <br>
-Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Data Science.
-
-<br><br>
-
-**Conhecimento em:** Python, Visualização de Dados, Análise Exploratória de Dados, Aprendizado de Máquina, Storytelling, Inglês.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/roberto-paixao95/)
-* [Medium](https://medium.com/@robertocsp95)
 
+
+Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Ciência de Dados.
 
 ## Projetos:
 Veja meus projetos já publicados:
