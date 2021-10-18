@@ -17,7 +17,9 @@ Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no u
 <br>
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/roberto-paixao95/)
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/roberto-paixao95/)
+* [LinkedIn]()
 
 
 Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Ciência de Dados.
