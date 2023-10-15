@@ -5,20 +5,24 @@
 </p>
 
 # Roberto Paixão
-<sub>*Bacharel em Sistemas de Informação*</sub>
+<sub>*Analista de Dados*</sub>
 
-Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no universo dos dados, procuro sempre aprender e evoluir todos os dias. Participei de alguns bootcamps de Data Science como o AceleraDEV da antiga Codenation e da Maratona Behind The Code da IBM que me renderam novos conhecimentos e habilidades técnicas em Python e em Ciência de Dados.
+Atualmente atuo como Analista de Dados Jr na M7 utilizando principalmente __Python__ e __SQL__, desde o desenvolvimento de ***ETL's***, ***RPA's*** e integrações entre sistemas até a criação de ***API's***. Procuro sempre aprender novos conceitos de _Data Science_ e _Data Engineering_ e tecnologias relacionados a dados todos os dias sempre com o intuito de resolver os problemas e desafios que surgem no dia-a-dia de maneira eficiente e rápida. 
 
 
 **Conhecimento em:** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-- Visualização de Dados
-- Análise Exploratória de Dados
-- Storytelling
+
+
+**Experiências:** <br>
+
+Um Breve resumo sobre algumas ferramentas que uso/usei no dia-a-dia: <br>
+- **Flask** e **FastAPI** para desenvolvimento de API; <br>
+- **Apache Airflow** para orquestração de scripts; <br>
+- **Apache Kafka** para streaming de dados <br>
+- **Selenium** para criação de RPAs <br>
+        
 
 **Links:**
 
@@ -27,7 +31,7 @@ Bacharel em Sistemas de Informação pela Estácio e atualmente mergulhando no u
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertocsp95@gmail.com)
 
 
-Aqui se encontram os projetos concluídos da minha trilha de aprendizado em Ciência de Dados.
+Aqui se encontram os projetos concluídos da minha trilha de aprendizado em _Data Science / Data Engineering_ .
 
 ## Projetos:
 Veja meus projetos já publicados:
